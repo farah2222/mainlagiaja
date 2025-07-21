@@ -24,4 +24,8 @@ npm install
 npm run dev
 
 
+## Screenshots
+
+![Lal](./images/lal.jpg)
+![Lol](./images/lol.png)
 
