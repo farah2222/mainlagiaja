@@ -22,10 +22,5 @@ npm install
 
 # Start the development server
 npm run dev
-
-
-## Screenshots
-
-![Lal](./images/lal.jpg)
-![Lol](./images/lol.png)
+ ``` 
 
