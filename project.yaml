@@ -1,9 +1,0 @@
-project:
-  name: mainlagiaja
-  type: library
-  description: "A fun project with Nara and games"
-  repository: "https://github.com/farah2222/mainlagiaja"
-  license: MIT
-  managers:
-    - npm
-

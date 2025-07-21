@@ -1,0 +1,12 @@
+# tea.yaml
+version: 1.0.0
+name: mainlagiaja
+type: library
+description: "A fun project with Nara and games"
+repository: "https://github.com/farah2222/mainlagiaja"
+license: MIT
+managers:
+  - npm
+codeOwners:
+  - '0xE54790d98f26184cc074d899E74bF3117e03916b'
+quorum: 1
