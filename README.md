@@ -2,8 +2,7 @@
 
 Mainlagiaja is a website made for **top up games** like **Mobile Legends** and **Free Fire**, featuring fun visuals and easy navigation.
 
-## 🌐 Demo
-
+## 🌐 Demo  
 🔗 [https://mainlagiaja.com](https://mainlagiaja.com)
 
 ## 🚀 Run Locally
@@ -22,5 +21,5 @@ npm install
 
 # Start the development server
 npm run dev
- ``` 
+
 
