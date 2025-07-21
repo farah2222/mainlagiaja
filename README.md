@@ -25,7 +25,3 @@ npm run dev
 
 
 
-
-## Screenshots
-
-![App Screenshot](./images/lal.jpg)
