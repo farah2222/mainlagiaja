@@ -1,5 +1,7 @@
 # Mainlagiaja
 
+[![Validated by Tea](https://badgen.net/badge/tea/validated/green)](https://tea.xyz)
+
 Mainlagiaja is a website made for **top up games** like **Mobile Legends** and **Free Fire**, featuring fun visuals and easy navigation.
 
 ## 🌐 Demo  
@@ -21,5 +23,3 @@ npm install
 
 # Start the development server
 npm run dev
-
-
