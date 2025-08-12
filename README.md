@@ -23,3 +23,6 @@ npm install
 
 # Start the development server
 npm run dev
+
+## 📅 Update Log
+- 12 Agustus 2025 — Minor docs update untuk TEA rank tracking
