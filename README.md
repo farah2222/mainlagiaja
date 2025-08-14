@@ -1,3 +1,4 @@
+[![Powered by Tea](https://tea.xyz/badge.svg)](https://tea.xyz)
 # Mainlagiaja
 
 [![Validated by Tea](https://badgen.net/badge/tea/validated/green)](https://tea.xyz)

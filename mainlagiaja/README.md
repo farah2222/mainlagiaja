@@ -1,3 +1,4 @@
+[![Powered by Tea](https://tea.xyz/badge.svg)](https://tea.xyz)
 
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
@@ -42,9 +43,3 @@ Start the server
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-
-
-
-
