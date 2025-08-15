@@ -1,6 +1,6 @@
 {
   "name": "mainlagiaja",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "Test package mainlagiaja",
   "main": "index.js",
   "types": "index.d.ts",
