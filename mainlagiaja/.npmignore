@@ -1,0 +1,8 @@
+# Abaikan folder demo
+uji-mainlagiaja/
+
+# Abaikan konfigurasi proyek lokal
+.vscode/
+*.log
+.gitignore
+README.local.md
